@@ -6,6 +6,10 @@ The AI-Based Smart Hostel Water Usage Monitor is a smart water-management soluti
 
 The system combines IoT-based monitoring with AI-based analysis to track water consumption, identify unusual usage patterns, and provide timely alerts and recommendations.
 
+## Project Prototype
+
+![AI Water Monitoring Prototype](AI%20WATER.png)
+
 ## Problem Statement
 
 Hostels commonly face water wastage due to:
